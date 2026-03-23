@@ -1,6 +1,6 @@
 :airplane: MAXWELL
 
- :computer::zap:   ola sou um programdor front end,atualmente estou criando projetos com 
+ :computer::zap:   ola sou um programdor front end,atualmente estou criando projetos com: 
 <br>
 <br>
 
